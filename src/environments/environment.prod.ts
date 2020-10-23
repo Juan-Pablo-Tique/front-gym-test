@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiBseUrl: 'https://desolate-inlet-83904.herokuapp.com/'
 };
